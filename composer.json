@@ -21,6 +21,9 @@
     "support": {
         "email": "support@anomaly.is"
     },
+    "require": {
+        "magento-hackathon/magento-composer-installer" : "*"
+    },
     "require-dev": {
         "phpspec/phpspec": "~2.0"
     },
